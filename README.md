@@ -1,8 +1,14 @@
-## Hey! I'm Clayton, an avid Python programmer :circus_tent:
+## Hey! I'm Clayton, a self-taught programmer :computer:
 
 <b>About me:<b>
 - :mortar_board: Majoring in Finance <a href="https://www.cityu.edu.hk/" target="_blank">@CityUHK</a>
-- :bar_chart: Self-learning data analysis with statistical models. Aspiring Quantitative Researcher!
+- Languages:
+  - :circus_tent:Python 
+  - :tea:Java
+  - :card_index_dividers:SQL
+  - :scroll:Command Line and Unix 
+- Frameworks:
+  - SpringBoot
 
 
-I love discussing cryptocurrencies. Memecoins are an area of fascination for me! :money_with_wings:
+I love video games and anime! :video_game::tv:
