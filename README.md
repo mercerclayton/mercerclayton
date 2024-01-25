@@ -7,8 +7,3 @@
   - :tea:Java
   - :card_index_dividers:SQL
   - :scroll:Command Line and Unix 
-- Frameworks:
-  - SpringBoot
-
-
-I love video games and anime! :video_game::tv:
