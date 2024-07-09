@@ -3,7 +3,4 @@
 <b>About me:<b>
 - :mortar_board: Majoring in Finance <a href="https://www.cityu.edu.hk/" target="_blank">@CityUHK</a>
 - Languages:
-  - :circus_tent:Python 
-  - :tea:Java
-  - :card_index_dividers:SQL
-  - :scroll:Command Line and Unix 
+  - :circus_tent:Python
